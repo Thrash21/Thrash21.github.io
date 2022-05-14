@@ -1,0 +1,73 @@
+/*GENERAL*/
+
+.textoFondo{
+    color: white;
+    text-align: center;
+    height: 50px;
+    font-size: 32px;
+    padding-top: 5px;
+}
+
+.negro{
+    background-color: black;
+}
+
+.titulo{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.fondo{
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    max-width: 100%;    
+    height: 800px;
+    filter:contrast(0.65) brightness(1.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto{
+    max-width: 100%;
+    height: 150px;
+    padding-top: 24px;    
+    text-align: center;
+}
+
+.fondo1{
+    background-image: url(pilares.jpg);    
+}
+
+/*ENCABEZADO*/
+
+#textoFondo1{
+    width: 180px;
+}
+
+#cabeza{
+    background-color: #D3D3D3;
+}
+
+/*SECCIÓN*/
+
+#fondo2{
+    background-image: url(ajedrez.jpg);    
+}
+
+.fondoTexto{
+    background-color: black;
+}
+
+.blanco{
+    color: white;
+}
+
+#fondo3{
+    background-image: url("pilares_02.jpg");
+}
+
+#textoFondo4{
+    width: 350px;
+}
